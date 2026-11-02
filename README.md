@@ -2,6 +2,8 @@
 
 Removes the device bezel (frame, rounded corners, Dynamic Island) from iOS Simulator and mockup screen recordings and saves a plain rectangular video with the same frames and audio.
 
+https://github.com/user-attachments/assets/95276cca-8ff2-409d-a760-42e65ad4a093
+
 ## Requirements
 
 - macOS
